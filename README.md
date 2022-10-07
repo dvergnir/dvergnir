@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :bowtie:
 
 <!--
 **dvergnir/dvergnir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![benjamin](https://user-images.githubusercontent.com/95217331/194584668-5f56a539-d8ec-4246-8c94-4a331eea219a.png)
