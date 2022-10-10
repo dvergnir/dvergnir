@@ -3,7 +3,7 @@
 My name is Benjamin 
 - 😄 Pronouns: Him | He
 
-I live right outside Bergen, Norway. My interestes are cooking, fishing, hiking, gardening, foraging and gaming.
+I live right outside Bergen, Norway. My interests are cooking, fishing, hiking, gardening, foraging and gaming.
 
 I am a Front-End Developer student at Noroff School of Technology and Digital Media, and I am 
 just now finishing my first out of 2 years at Noroff.
