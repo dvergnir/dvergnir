@@ -1,5 +1,10 @@
 ### Hi there :bowtie:
 
+My name is Benjamin 
+- 😄 Pronouns: Him | He
+
+I live right outside Bergen, Norway. My interestes are fishing, hiking, gardening and gaming.
+
 I am a Front-End Developer student at Noroff School of Technology and Digital Media.
 I am just now finishing my first year, and I am looking forward to my 2nd and last year at Noroff.
 
