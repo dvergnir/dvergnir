@@ -18,7 +18,13 @@ Web Development.
 - ⚡ Fun fact: Mead is most likely the oldest alcoholic beverage known to man
 - 📫 How to reach me: [Email](mailto:benjamin.londal@gmail.com?subject=[GitHub])
 
+### My skills and tools:
 
+- HTML, CSS, JS
+- WP REST API
+- Responsive Design
+- Adobe XD
+- WCAG
 
 
 <!--
