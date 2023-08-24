@@ -13,7 +13,7 @@ After I got my certificate I started working as a professional brewer, while sim
 I worked as a production manager and general manager until Covid hit in 2020. That is when I decided to go back to my roots in IT and learn
 Web Development.
 
-- 🔭 I’m currently working on my Semester Project 2
+- 🔭 I’m currently working on my final Project Exam
 - 🌱 I’m currently learning Javascript, Bootstrap and workflow
 - ⚡ Fun fact: Mead is most likely the oldest alcoholic beverage known to man
 - 📫 How to reach me: [Email](mailto:benjamin.londal@gmail.com?subject=[GitHub])
