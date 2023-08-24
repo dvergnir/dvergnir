@@ -5,12 +5,11 @@ My name is Benjamin
 
 I live right outside Bergen, Norway. My interests are cooking, fishing, hiking, gardening, foraging and gaming.
 
-I am a Front-End Developer student at Noroff School of Technology and Digital Media, and I am 
-on my first out of 2 years at Noroff.
+I am a Front-End Developer student at Noroff School of Technology and Digital Media, and I am currently in the last semester about to finish this 2yr course.
 I have 5 years of experience from ATEA Norge, where I got my Certificate of Apprenticeship in Computer Electronics in 2016.
 I worked with software, hardware, CCTV, IP-networks and some customer support.
-After I got my certificate I started working as a professional brewer, while simultaneously opening the first meadery in Norway, Mjøderiet.
-I worked as a production manager and general manager until Covid hit in 2020. That is when I decided to go back to my roots in IT and learn
+After I got my Certificate I started working as a professional brewer, while simultaneously opening the first meadery in Norway, Mjøderiet.
+I worked as a Production Manager and General Manager until Covid hit in 2020. That is when I decided to go back to my roots in IT and learn
 Web Development.
 
 - 🔭 I’m currently working on my final Project Exam
