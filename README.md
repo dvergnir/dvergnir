@@ -20,6 +20,8 @@ Web Development.
 ### My skills and tools:
 
 - HTML, CSS, JS
+- Bootstrap CSS
+- Reactjs
 - Git
 - WP REST API
 - Responsive Design
